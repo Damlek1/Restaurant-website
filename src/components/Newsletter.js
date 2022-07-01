@@ -13,7 +13,7 @@ export default function Newsletter() {
         </div>
         <div className="container">
             <input type='email' placeholder='Enter your email here' />
-            <button>Search</button>
+            <button>Subscribe</button>
         </div>
     </Section>
   )
