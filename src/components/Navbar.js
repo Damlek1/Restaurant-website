@@ -54,7 +54,6 @@ import {VscChromeClose } from 'react-icons/vsc'
         }
         .toggle{
             display: none;
-            z-index: 12;
         }
     }
     .links {
@@ -73,6 +72,9 @@ import {VscChromeClose } from 'react-icons/vsc'
                     color: #f9c74f ;
                 }
             }
+             .active {
+                color: #f9c74f;
+             }
         }
     }
     @media screen and (min-width: 260px) and (max-width: 1080px) {
@@ -83,8 +85,9 @@ import {VscChromeClose } from 'react-icons/vsc'
       width: 100%;
       top: 0;
       .toggle {
-        cursor: pointer;
         display: block;
+        cursor: pointer;
+        z-index: 12;
       }
     }
     .links {
