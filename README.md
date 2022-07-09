@@ -1,3 +1,4 @@
 # Restaurant App
 
-![restaurant](https://user-images.githubusercontent.com/100087318/178108789-9800e0c2-bfed-4475-941c-f2071b6a4f8f.png)
+![restaurant](https://user-images.githubusercontent.com/100087318/178108881-47ded884-9ac1-466a-8880-5b8cff3a200c.png)
+
