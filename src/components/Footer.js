@@ -47,7 +47,7 @@ export default function Footer() {
     </Section>
     <LowerFooter className="lower__footer">
         <h2>
-          Copyright &copy; 2022 <span>Food Yummy</span>
+          Copyright &copy; {new Date().getFullYear()} <span>Food Yummy</span>
         </h2>
     </LowerFooter>
   </div>
